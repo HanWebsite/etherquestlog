@@ -1,0 +1,20 @@
+{
+  "name": "etherquestlog",
+  "version": "0.1.1",
+  "description": "A utility for tracking your progress in the EtherQuest game.",
+  "main": "questTracker.js",
+  "scripts": {
+    "start": "node questTracker.js"
+  },
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/HanWebsite/etherquestlog.git"
+},
+  "author": "hanwebsite",
+  "license": "MIT",
+  "dependencies": {
+    "etherquest": "^0.1.0",
+    "etherquestlog": "^0.1.0",
+    "axios": "^0.21.1"
+  }
+}
